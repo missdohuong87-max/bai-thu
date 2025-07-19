@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="wbkCLznJkdf1a" xmlns="http://www.imsglobal.org/xsd/imscp_v1p1" xmlns:imsss="http://www.imsglobal.org/xsd/imsss" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3" xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3" xmlns:adlnav="http://www.adlnet.org/xsd/adlnav_v1p3" xmlns:lom="http://ltsc.ieee.org/xsd/LOM" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd http://www.imsglobal.org/xsd/imsss imsss_v1p0.xsd http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd http://www.adlnet.org/xsd/adlseq_v1p3 adlseq_v1p3.xsd http://www.adlnet.org/xsd/adlnav_v1p3 adlnav_v1p3.xsd http://ltsc.ieee.org/xsd/LOM lom.xsd">
+	<metadata>
+		<schema>ADL SCORM</schema>
+		<schemaversion>2004 4th Edition</schemaversion>
+		<lom:lom>
+			<lom:general>
+				<lom:title>
+					<lom:string>LUYỆN TẬP</lom:string>
+				</lom:title>
+			</lom:general>
+			<lom:educational>
+				<lom:typicalLearningTime>
+					<lom:duration>PT1H0M0S</lom:duration>
+				</lom:typicalLearningTime>
+			</lom:educational>
+		</lom:lom>
+	</metadata>
+	<organizations default="wbkCLznJkdf1a_organization">
+		<organization identifier="wbkCLznJkdf1a_organization">
+			<title>LUYỆN TẬP</title>
+			<item identifier="F8DE3376-25EA-4851-AD16-C9A413D4A51D" identifierref="resource">
+				<title>LUYỆN TẬP</title>
+				<imsss:sequencing>
+					<imsss:deliveryControls completionSetByContent="true" objectiveSetByContent="true"/>
+			       	</imsss:sequencing>
+			</item>
+			<imsss:sequencing>
+				<imsss:controlMode flow="true"/>
+			</imsss:sequencing>
+		</organization>
+	</organizations>
+	<resources>
+		<resource identifier="resource" type="webcontent" adlcp:scormType="sco" href="res/index.html">
+			<file href="res/data/apple-touch-icon.png"/>
+<file href="res/data/browsersupport.js"/>
+<file href="res/data/favicon.ico"/>
+<file href="res/data/fonts/fnt0.woff"/>
+<file href="res/data/fonts/fnt1.woff"/>
+<file href="res/data/fonts/fnt2.woff"/>
+<file href="res/data/fonts/fnt3.woff"/>
+<file href="res/data/fonts/fnt4.woff"/>
+<file href="res/data/fonts/fnt5.woff"/>
+<file href="res/data/fonts/fnt6.woff"/>
+<file href="res/data/fonts/fnt7.woff"/>
+<file href="res/data/goodbye.html"/>
+<file href="res/data/html5-unsupported.html"/>
+<file href="res/data/images/img-000518694b57163c0c089e62f01430b16984a209.png"/>
+<file href="res/data/images/img-00cef46f63686f3e64a1f237672bc784de9ee5c1.jpg"/>
+<file href="res/data/images/img-140cee807661401da6ba4f873dc38c0dc524889f.jpg"/>
+<file href="res/data/images/img-17f2a51e1327059d2d51a2a8c0715694b35071f9.png"/>
+<file href="res/data/images/img-186b476074ac1145994a3e2b0db48277907bdb8e.jpg"/>
+<file href="res/data/images/img-2d58f2f23f4520add149ce7e65cc6bb56a980b49.png"/>
+<file href="res/data/images/img-2f287154f2d35c84f07b1cb56b4a72d7264dc47e.png"/>
+<file href="res/data/images/img-32dc9adacc65b7b393bb9cb74dd1c3c16feb56b2.jpg"/>
+<file href="res/data/images/img-3e635116e3bde86e322728bc8d9e3172465f5131.png"/>
+<file href="res/data/images/img-428e56faa3b2c0ce5a837dd5ee745e8828633565.jpg"/>
+<file href="res/data/images/img-59d8a55733665529b5fdaf6dadc3878476adda98.jpg"/>
+<file href="res/data/images/img-623dc0028357ca2e2554d8b040805c2a563fd88c.jpg"/>
+<file href="res/data/images/img-65f35cf8ec8c01160392efc3cfc30756d42a50b2.png"/>
+<file href="res/data/images/img-724825c10732d5c4439cb0b67153fe6f8bb869fa.jpg"/>
+<file href="res/data/images/img-81163005779f912094f6a3812d71634fab9eb8d7.png"/>
+<file href="res/data/images/img-9695e88040a2695906569eaf3e692a24f3beb919.jpg"/>
+<file href="res/data/images/img-9b58fbe96256ef5d41616cb0152daa9da9761349.png"/>
+<file href="res/data/images/img-a5778f604866794393a192375df7bcd621cc1c95.png"/>
+<file href="res/data/images/img-ad9c4f16f1768de9ac6fdd3392888b7a95561800.png"/>
+<file href="res/data/images/img-b8bab6cd2935c10ba4bd9a294ac619c87bc07ca4.jpg"/>
+<file href="res/data/images/img-b8c5c99130cc882a106b5c5ce08a81b016663c4d.jpg"/>
+<file href="res/data/images/img-bd6fce6ceb805cb9476663dfc8037ced7957ae2b.png"/>
+<file href="res/data/images/img-bf139f46bc4468b5ce20b9ba035991500f3df774.jpg"/>
+<file href="res/data/images/img-c4fc8e279d523970d3257afb0c448badc4d12229.jpg"/>
+<file href="res/data/images/img-c61ba8cfdd113e95ca9994377d8f7800bc681b89.png"/>
+<file href="res/data/images/img-d07b161e9223daec5fac9140877e622b73348129.jpg"/>
+<file href="res/data/images/img-e59719f5fbb881f5e269d138831afe73057ad91f.jpg"/>
+<file href="res/data/images/img-e609f06f88e3610c01a1a9c7b243e588118f2091.jpg"/>
+<file href="res/data/images/img-eaa269d3926c16ca07f14b55bc0dde50e83c9d53.png"/>
+<file href="res/data/images/img-efca255917320fd9956967947ab0a60d1b5e0eb0.jpg"/>
+<file href="res/data/lms.js"/>
+<file href="res/data/player.js"/>
+<file href="res/data/videos/video-b8bab6cd2935c10ba4bd9a294ac619c87bc07ca4.mp4"/>
+<file href="res/index.html"/>
+
+		</resource>
+	</resources>
+</manifest>
